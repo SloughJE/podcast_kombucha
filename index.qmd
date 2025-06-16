@@ -275,6 +275,8 @@ Note: Only "not completely emptying the intestine" showed a statistically signif
 
 ::: {.column width="60%"}
 
+Study involved 59 subjects
+
 - Kombucha didn’t boost weight loss or most inflammation markers but it did:
   - **blunt IL-6 increase** vs. control (IL-6 increased in both groups)
   - unclear if this blunting is clinically significant (it is statistically)
