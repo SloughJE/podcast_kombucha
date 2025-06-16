@@ -417,7 +417,7 @@ Strong preclinical data support kombucha as a liver-support candidate, but **no 
 
 <div style="font-size:85%; margin-top:0.8em;">
 Kombucha appears <i>possibly helpful</i> for digestion and glycemic response in some people,<br>
-but stronger, larger trials are needed to draw confident health conclusions.
+but larger human trials are needed to draw confident health conclusions.
 </div>
 
 :::
