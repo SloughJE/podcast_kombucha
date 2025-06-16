@@ -376,3 +376,48 @@ Strong preclinical data support kombucha as a liver-support candidate, but **no 
 **Caution:** Most serious harms involved **improperly prepared homemade** or **excessive daily use**.  
   When brewed safely and consumed in moderation, kombucha appears well-tolerated by most.
   
+  
+# Conclusion
+
+## Kombucha Health Effects {.smaller}
+
+::: {.fragment}
+
+- **Some potential benefits shown in small human trials**:
+  <ul style="margin:0 0 0.8em 0; font-size:80%; line-height:1.3; padding-left:1.5em;">
+    <li>↓ Post-meal blood sugar spikes (esp. with high-GI meals)</li>
+    <li>↓ Gastrointestinal symptoms in some settings (e.g. constipation, bloating)</li>
+    <li>↑ Favorable shifts in gut microbiota (short-term, unclear of clincial relevance)</li>
+    <li>Blunted inflammatory marker (IL-6) in one study</li>
+  </ul>
+
+:::
+
+::: {.fragment}
+
+- **No clinical evidence yet** for:
+  <ul style="margin:0 0 0.8em 0; font-size:80%; line-height:1.3; padding-left:1.5em;">
+    <li>Antioxidant effects in humans</li>
+    <li>Liver support (only animal data so far)</li>
+  </ul>
+
+:::
+
+::: {.fragment}
+
+- **Safety profile appears decent**, but:
+  <ul style="margin:0; font-size:80%; line-height:1.3; padding-left:1.5em;">
+    <li>GI discomfort (bloating, diarrhea) is common</li>
+    <li>Rare serious harms linked to homebrewed or high-volume use</li>
+  </ul>
+
+:::
+
+::: {.fragment}
+
+<div style="font-size:85%; margin-top:0.8em;">
+Kombucha appears <i>possibly helpful</i> for digestion and glycemic response in some people,<br>
+but stronger, larger trials are needed to draw confident health conclusions.
+</div>
+
+:::
