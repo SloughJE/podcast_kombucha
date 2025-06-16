@@ -29,19 +29,21 @@ John Slough
 
 ## Overall Findings {.smaller}
 
-- **Human RCTs** are growing, but still limited
-  - mostly from small / pilot trials
-- **Animal and mechanistic data** dominate much of the literature
+**Potential Benefits:**
 
-::: {.fragment}
-
-#### Potential Benefits:
 <ul style="margin-top:0; line-height:1.2; font-size:80%; padding-left:1.5em;">
   <li>Glycemic control</li>
   <li>Gut health, symptom relief</li>
   <li>Anti-inflammatory & anti-oxidant activity</li>
   <li>Possible liver support (in animals)</li>
 </ul>
+
+::: {.fragment}
+
+
+- **Human RCTs** are growing, but still limited in number and scope
+  - data mostly from small / pilot trials
+- **Animal and mechanistic data** dominate much of the literature
 
 :::
 
