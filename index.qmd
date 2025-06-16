@@ -1,0 +1,378 @@
+---
+# 
+author: "John Slough"
+format:
+  revealjs:
+    self-contained: true
+    theme: [night]
+    slide-number: true
+    
+---
+
+<div style="font-size: 200%; margin-top: 1.5em; text-align: center; font-weight: bold;">
+Kombucha
+</div>
+
+<div style="margin-top: 1.2em; margin-bottom: 1.5em; text-align: center; font-weight: bold; font-size: 120%;">
+Health Effects from Human Trials
+</div>
+
+<hr style="width: 45%; margin: 2em auto 2em auto; border: 0.5px solid #888;">
+
+<div style="text-align: center; font-size: 90%;">
+John Slough  
+<em>This is not medical advice</em>  
+</div>
+
+
+---
+
+## Overall Findings {.smaller}
+
+- **Human RCTs** are growing, but still limited  
+- **Animal and mechanistic data** dominate much of the literature
+
+::: {.fragment}
+
+#### Potential Benefits (tentative):
+<ul style="margin-top:0; line-height:1.2; font-size:80%; padding-left:1.5em;">
+  <li>Glycemic control</li>
+  <li>Gut health, symptom relief</li>
+  <li>Anti-inflammatory & anti-oxidant activity</li>
+  <li>Possible liver support (in animals)</li>
+</ul>
+
+:::
+
+::: {.fragment}
+
+- **Adverse effects**: mostly mild GI symptoms
+- **Warnings**: mainly with homebrewed or high-volume use
+- Human evidence mostly from small / pilot trials or systematic reviews.
+
+:::
+
+---
+
+## Sugar Amount {.smaller}
+
+- 1 - 24 grams per 100 mL [(commercial)](https://www.mdpi.com/2306-5710/6/1/15)
+- similar for home brew
+- depends on fermentation length
+
+for a typical 100 g/L sugar starter:
+
+After 7 days → ~34 g/L remaining
+
+After 21 days → ~19 g/L remaining
+
+# Glycemic Control
+
+
+## Glycemic Control {.smaller}
+
+[Kombucha tea as an anti-hyperglycemic agent in humans with diabetes - a randomized controlled pilot investigation (2023)](https://pubmed.ncbi.nlm.nih.gov/37588049/)
+
+> "Kombucha lowered average fasting blood glucose levels at 4 weeks compared to baseline (164 vs. 116 mg/dL, p = 0.035), whereas the placebo did not (162 vs. 141 mg/dL, p = 0.078)."
+
+- possibly positive for blood sugar levels but small sample size
+
+---
+
+## Glycemic Control {.smaller}
+
+[Modulating the human gut microbiome and health markers through kombucha consumption: a controlled clinical study (2024)](https://pubmed.ncbi.nlm.nih.gov/39738315/)
+
+> "paired analysis between baseline and end of intervention time points within kombucha or control groups revealed **increases in fasting insulin** and in HOMA-IR in the kombucha group"
+
+- Generally not a good thing for blood sugar management
+- unclear how much sugar in the kombucha: "16 oz of a commercial kombucha beverage"
+- small study, only 24 participants
+
+---
+
+## Glycemic Control {.smaller}
+
+[Glycemic index and insulin index after a standard carbohydrate meal consumed with live kombucha: A randomised, placebo-controlled, crossover trial](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2023.1036717/full)
+
+2023 Study, 11 participants, on post-prandial glucose response of kombucha compared to 2 other drinks
+
+- 330 ml of Schweppes soda water (placebo) 
+- diet lemonade soft drink (Schweppes Zero Sugar) 
+- organic kombucha (The Good Brew Company Pty Ltd., VIC, Australia)
+
+The Kombucha added 3g of carbohydrate (1.7g sugar) to the test meal 
+
+Soda water and diet lemonade did not contain any sugar.
+
+
+---
+
+
+## Glycemic Control {.smaller}
+
+::: columns
+
+::: {.column width="50%"}
+
+- Kombucha with a meal led to a more moderate rise in blood glucose between 30–60 minutes  
+  - at 30 min: **Kombucha: 36 mg/dL**, **Lemonade: 56 mg/dL**, **Soda: 65 mg/dL**
+  
+- Peak glucose rise was significantly lower vs. soda water and diet lemonade (p = 0.003, p = 0.008)
+
+:::
+
+::: {.column width="50%"}
+
+<a href="https://www.frontiersin.org/files/Articles/1036717/fnut-10-1036717-HTML-r1/image_m/fnut-10-1036717-g001.jpg" target="_blank">
+  <img src="assets/glucose-curve.jpg" width="100%" style="display: block; margin: auto;" />
+</a>
+
+:::
+
+:::
+
+::: {.fragment}
+
+**Conclusion:** A standard serving of kombucha, consumed with a high-GI, rice-based meal:
+
+  - produced "clinically significant reductions in postprandial glycemia and insulinemia"
+  - Effect observed in **healthy adults**
+
+:::
+
+
+# Gut Health
+
+
+## Gut Health {.smaller}
+
+[2024 RCT: Kombucha and the Gut Microbiome](https://www.nature.com/articles/s41598-024-80281-w#MOESM1)  
+8-week trial in 30 healthy adults
+
+- No change in overall diversity, but specific species shifted
+
+- **Probiotic increases:**  
+  <ul style="margin-top:0; margin-bottom:0; font-size:80%; line-height:1.2; padding-left:1.5em;">
+    <li><i>Weizmannia coagulans</i> — probiotic added to kombucha</li>
+    <li>SCFA producers (e.g. <i>Prevotella</i>, <i>Bifidobacterium</i>) → may support gut lining and reduce inflammation</li>
+    <li><i>Ellagibacter</i> — helps break down dietary polyphenols</li>
+  </ul>
+
+- **Probiotic decreases:**  
+  <ul style="margin-top:0; margin-bottom:0; font-size:80%; line-height:1.2; padding-left:1.5em;">
+    <li>↓ <i>Fusobacterium</i>, <i>Parabacteroides</i> — possibly favorable</li>
+    <li>↓ <i>Lactobacillus</i> — often beneficial; unclear impact here</li>
+  </ul>
+
+- No effect on blood biomarkers or inflammation
+
+- Suggests **short-term microbial reshaping** from probiotics + fiber;  
+  clinical impact unclear without longer trials
+  
+## Gut Health {.smaller}
+
+[The Impact of Green Tea Kombucha on the Intestinal Health, Gut Microbiota, and Serum Metabolome of Individuals with Excess Body Weight in a Weight Loss Intervention: A Randomized Controlled Trial](https://www.mdpi.com/2304-8158/13/22/3635)
+
+10 week study on 59 participants from 2024
+
+#### GI symptom improvements (vs. control)
+<ul style="margin-top:0; font-size:75%; line-height:1.2; padding-left:1.5em;">
+  <li>Reduced hard stools (<i>p</i> = 0.001)</li>
+  <li>Improved sensation of not completely emptying the intestine (<i>p</i> = 0.027; Δ <i>p</i> = 0.002)</li>
+  <li>Less "having a stomach full of air" (<i>p</i> = 0.046)</li>
+  <li>Reduced reflux (<i>p</i> = 0.043)</li>
+  <li>Lower total GSRS symptom score (<i>p</i> = 0.035) (Gastrointestinal Symptom Rating Scale)</li>
+</ul>
+
+#### Gut Barrier-related outcomes
+<ul style="margin-top:0; font-size:75%; line-height:1.2; padding-left:1.5em;">
+  <li>Intestinal permeability and fecal pH worsened in controls only</li>
+  <li>Suggests kombucha may help maintain gut barrier and pH balance</li>
+</ul>
+
+::: {.fragment}
+
+<div style="font-size: 85%;">
+
+Note: Only "not completely emptying the intestine" showed a statistically significant difference in change (Δ) between groups (<i>p</i> = 0.002); other <i>p</i>-values reflect final score comparisons.
+
+</div>
+
+:::
+
+---
+
+
+<a href="https://www.mdpi.com/2304-8158/13/22/3635" target="_blank">
+  <img src="assets/bowels1.png" width="100%" style="display: block; margin: auto;" />
+</a>
+
+---
+
+<a href="https://www.mdpi.com/2304-8158/13/22/3635" target="_blank">
+  <img src="assets/bowels2.png" width="100%" style="display: block; margin: auto;" />
+</a>
+
+---
+
+## Gut Health {.smaller}
+
+#### Constipation-Predominant IBS (irritable bowel syndrome)
+
+[10-day RCT: Pasteurized Kombucha + Inulin vs. Water](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10750126/)  
+<ul style="margin-top: 0; margin-bottom: 0; font-size: 80%; line-height: 1.2; padding-left: 1.5em;">
+  <li>40 women with IBS-C</li>
+  <li>Increased stool frequency (0.60 → 0.85/day, <i>p</i> = 0.004)</li>
+  <li>Stool consistency improved</li>
+  <li>Reduced incomplete evacuation; no adverse effects</li>
+  <li>Inulin may explain at least part of the benefit</li>
+</ul>
+
+<br>
+
+#### Inflammatory Bowel Disease (Crohn’s, UC)
+<ul style="margin-top: 0; margin-bottom: 0; font-size: 80%; line-height: 1.2; padding-left: 1.5em;">
+  <li>No human trials; only anecdotal symptom reports</li>
+  <li>Mouse study: kombucha polysaccharide reduced colitis severity, improved gut barrier integrity</li>
+  <li>Live cultures may pose risk, caution advised in IBD</li>
+</ul>
+
+---
+
+## Gut Health {.smaller}
+
+- The study on [green tea kombucha](https://www.mdpi.com/2072-6643/16/18/3186) states:  
+  *"Kombucha has been associated with decreasing gastrointestinal symptoms in individuals with inflammatory bowel disease [17]."*
+
+- But reference [17] is a [pilot RCT in women with IBS-C](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10750126/) — it does **not mention IBD** or its subtypes (Crohn’s, ulcerative colitis)
+
+
+- A Google Scholar search for "kombucha inflammatory bowel disease" ranks the IBS study among the top results
+
+<ul style="margin:0 0 0 0; line-height:1.1; font-size:80%; padding-left: 2.3em;">
+  <li><b>IBS:</b> Discomfort without long-term damage (pain, bloating, irregularity)</li>
+  <li><b>IBD:</b> Chronic inflammation with risk of bleeding, hospitalization, complications</li>
+</ul>
+
+<br>
+
+::: {.fragment}
+
+#### Citation Cascade / Citation Distortion
+
+[How citation distortions create unfounded authority: analysis of a citation network](https://www.bmj.com/content/339/bmj.b2680)
+
+:::
+
+# Anti-inflammatory Effects
+
+## Anti-inflammatory Effects {.smaller}
+
+[Green Tea Kombucha Impacts Inflammation and Salivary Microbiota in Individuals with Excess Body Weight: A Randomized Controlled Trial](https://www.mdpi.com/2072-6643/16/18/3186)
+
+::: columns
+
+::: {.column width="60%"}
+
+- Kombucha didn’t boost weight loss or most inflammation markers but it did:
+  - **blunt IL-6 increase** vs. control (IL-6 increased in both groups)
+  - unclear if this blunting is clinically significant (it is statistically)
+  - reduce lipid accumulation product (LAP) (p = 0.029)
+
+    - **LAP:** Index for estimating metabolic risk (CVD, type 2 diabetes)
+
+:::
+
+::: {.column width="40%"}
+
+<br>
+
+<a href="https://www.mdpi.com/2072-6643/16/18/3186" target="_blank">
+  <img src="assets/il6.png" width="100%" style="display: block; margin: auto;" />
+</a>
+
+::: 
+
+:::
+
+
+
+# Anti-oxidant Effects
+
+## Anti-oxidant Effects {.smaller}
+
+**Human Evidence:**
+
+- No human randomized controlled trials have directly measured anti-oxidant biomarkers  
+
+- Reviews emphasize a lack of direct anti-oxidant outcome trials in humans  
+  - [Olowoake et al., 2023](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10530084/)
+  
+---
+
+## Anti-oxidant Effects {.smaller}
+
+**Animal & in vitro evidence:**
+
+- [Kombucha reduces oxidative stress in hepatocytes and rodent tissues](https://pubmed.ncbi.nlm.nih.gov/21388793/)  
+  - lower lipid peroxidation (MDA), ↑ Anti-oxidant enzymes (SOD, catalase, GSH) in liver and kidney cells  
+  - More potent than black tea in models of toxicant exposure  
+
+- [Kombucha’s fermentation enhances Anti-oxidant capacity](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1254014/full)
+  - Increases total phenolic content and free-radical scavenging (DPPH, hydroxyl, superoxide assays)  
+  - Stronger Anti-oxidant activity than unfermented tea  
+
+
+::: {.fragment}
+
+- Conclusion: Kombucha shows robust anti-oxidant effects in cell and animal models, but **these effects remain untested in humans**
+
+:::
+
+# Liver Function
+
+
+## Liver Function & Kombucha {.smaller}
+
+- **No human trials** yet on kombucha in liver disease, NAFLD, or elevated liver enzymes  
+- **Animal models** show strong hepatoprotective effects in metabolic and toxic injury contexts
+
+<ul style="margin-top:0; margin-bottom:0; font-size:80%; line-height:1.2; padding-left:1.5em;">
+  <li>[Toxin-induced injury (rats)](https://pubmed.ncbi.nlm.nih.gov/19420997/): kombucha-fermented black tea lowered ALT, AST, ALP, MDA; protected against necrosis, better than black tea.</li>
+  <li>[Fatty liver (NAFLD) models](https://pubmed.ncbi.nlm.nih.gov/34617537/): reduced hepatic steatosis and inflammation in high-fat/fructose-fed rats</li>
+  <li>[Diabetic models](https://pubmed.ncbi.nlm.nih.gov/23907022/): improved liver and kidney function in diabetic rats</li>
+</ul>
+
+::: {.fragment}
+
+Strong preclinical data support kombucha as a liver-support candidate, but **no direct human evidence** yet.
+
+:::
+
+
+# Adverse Effects & Warnings
+
+## Adverse Effects & Warnings {.smaller}
+
+- **Mild GI symptoms** common in trials (e.g. bloating, diarrhea) 
+  ([Ecklu-Mensah et al., 2024](https://www.nature.com/articles/s41598-024-80281-w))
+
+- **Serious liver injury** reported:  
+  <ul style="margin:0; line-height:1; font-size:80%; padding-left:1.5em;">
+    <li>Case of acute cholestatic hepatitis after ~1 month of kombucha use  
+    in a woman with diabetes and hypothyroidism; resolved with treatment</li>  
+    <li>([Gedela et al., 2023, *Heliyon*](https://www.researchgate.net/publication/296671257_A_Case_of_Hepatotoxicity_Related_to_Kombucha_Tea_Consumption))</li>
+  </ul>
+
+- **Iowa CDC case (1995):**  
+  <ul style="margin:0; line-height:1; font-size:80%; padding-left:1.5em;">
+    <li>Two women hospitalized after drinking homemade kombucha for 2 months;  
+    one died from severe metabolic acidosis</li>
+    <li>"Possibly Associated with Consumption of Kombucha Tea"</li>
+    ([CDC MMWR, 1995](https://www.cdc.gov/mmwr/preview/mmwrhtml/00039742.htm))</li>
+  </ul>
+
+**Caution:** Most serious harms involved **improperly prepared homemade** or **excessive daily use**.  
+  When brewed safely and consumed in moderation, kombucha appears well-tolerated by most.
+  
