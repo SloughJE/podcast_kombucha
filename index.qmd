@@ -35,7 +35,7 @@ John Slough
 
 ::: {.fragment}
 
-#### Potential Benefits (tentative):
+#### Potential Benefits:
 <ul style="margin-top:0; line-height:1.2; font-size:80%; padding-left:1.5em;">
   <li>Glycemic control</li>
   <li>Gut health, symptom relief</li>
