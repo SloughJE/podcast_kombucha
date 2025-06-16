@@ -29,7 +29,8 @@ John Slough
 
 ## Overall Findings {.smaller}
 
-- **Human RCTs** are growing, but still limited  
+- **Human RCTs** are growing, but still limited
+  - mostly from small / pilot trials
 - **Animal and mechanistic data** dominate much of the literature
 
 ::: {.fragment}
@@ -48,7 +49,6 @@ John Slough
 
 - **Adverse effects**: mostly mild GI symptoms
 - **Warnings**: mainly with homebrewed or high-volume use
-- Human evidence mostly from small / pilot trials or systematic reviews.
 
 :::
 
