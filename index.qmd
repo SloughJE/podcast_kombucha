@@ -61,6 +61,9 @@ John Slough
 
 [Kombucha tea as an anti-hyperglycemic agent in humans with diabetes - a randomized controlled pilot investigation (2023)](https://pubmed.ncbi.nlm.nih.gov/37588049/)
 
+A prospective randomized double-blinded crossover study, with 12 subjects
+
+
 > "Kombucha lowered average fasting blood glucose levels at 4 weeks compared to baseline (164 vs. 116 mg/dL, p = 0.035), whereas the placebo did not (162 vs. 141 mg/dL, p = 0.078)."
 
 - possibly positive for blood sugar levels but small sample size
