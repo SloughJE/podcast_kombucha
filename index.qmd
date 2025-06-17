@@ -54,20 +54,6 @@ John Slough
 
 :::
 
----
-
-## Sugar Amount {.smaller}
-
-- 1 - 24 grams per 100 mL [(commercial)](https://www.mdpi.com/2306-5710/6/1/15)
-- similar for home brew
-- depends on fermentation length
-
-for a typical 100 g/L sugar starter:
-
-After 7 days → ~34 g/L remaining
-
-After 21 days → ~19 g/L remaining
-
 # Glycemic Control
 
 
